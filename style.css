@@ -37,7 +37,6 @@ button{
 #content{
     text-align:center;
 }
-
 #content button{
     background-color: #008b8b;
     margin-right: 30px;
@@ -51,7 +50,6 @@ button{
  #content button:hover{
     background-color: black;
  }
-
  a:visited {
     color: white;
     background-color: transparent;
